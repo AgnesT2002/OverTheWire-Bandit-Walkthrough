@@ -1,5 +1,7 @@
 # OverTheWire-Bandit-Walkthrough
-Journal done for educational purposes
+Journal was done in 2023 (for educational purposes)
+
+Link: https://overthewire.org/wargames/bandit/
 
 This a series of levels designed to teach and challenge users in the field of cybersecurity and system administration. Each level presents a unique set of tasks that require participants to use various techniques and tools to gain access to the next level's password or flag. 
 
